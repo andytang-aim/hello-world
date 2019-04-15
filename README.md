@@ -2,4 +2,4 @@
 
 git tutorial 
 
-status 確認
+diffの確認
