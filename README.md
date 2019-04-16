@@ -1,3 +1,7 @@
-# hello-world 
+# hello-world
 
-Git チュートリアル
+git tutorial 
+
+reset モードtest
+
+add.
