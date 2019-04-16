@@ -2,4 +2,6 @@
 
 git tutorial 
 
-diffの確認
+reset モードtest
+
+add.
